@@ -4,7 +4,7 @@
 
 :pencil: **Generar autoamatizaciones**
 
-:eyeglasesses: **entusiasta de la programación*
+:eyeglasses: **entusiasta de la programación**
 
 :oncoming_automobile: **Fan de la F1 y de la Natación**
 
