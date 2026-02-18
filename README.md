@@ -11,7 +11,7 @@
 :family: **EL esposo y papá más feliz del mundo**
 
 ### :zap: Actividad reciente
-<!--RECENT-ACTIVITY:star--> 
+<!--START_SECTION:activity--> 
 <!--RECENT-ACTIVITY:last_update--> 
 
 ## Vias de contacto
