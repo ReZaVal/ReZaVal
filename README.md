@@ -1,14 +1,46 @@
-## Hi there 👋
+### Hi there 👋
 
-:computer: **Ingeniero de Petroleo y Gas Natural en Transportadora de Gas del Perú**
+## 👨‍🎓 About Me
 
-:pencil: **Generar automatizaciones**
+**Petroleum & Gas Engineer** transitioning into **Data Science & AI Engineering**
 
-:eyeglasses: **entusiasta de la programación**
+Currently building skills in:
+- 📊 **Data Science & Analytics** (Python, Pandas, Excel Advanced)
+- 🤖 **Artificial Intelligence & Machine Learning** (ML Fundamentals, NLP, AI Tools)
+- 💻 **Software Engineering** (Git/GitHub, Automation, RPA, Terminal)
 
-:oncoming_automobile: **Fan de la F1 y de la Natación**
+🎯 **Mission:** Automate processes in the energy sector and create scalable AI-driven solutions
 
-:family: **EL esposo y papá más feliz del mundo**
+---
+
+### 🚀 What I Do
+
+- 🔧 Automating workflows in the oil & gas industry
+- 📈 Analyzing natural gas distribution data with Python
+- 🛠️ Building tools to optimize operational processes
+- 💡 Exploring AI/ML applications for industrial automation
+- 💰 Developing side projects for additional income streams
+
+---
+
+### 🎓 Learning Journey
+
+**Active Platzi Learning Paths:**
+- 📊 Data Science & AI Fundamentals (Statistics, Probability, Python, ML)
+- 💻 Software Engineering Fundamentals (Programming, Git, DevOps)
+- 📉 Excel Advanced Analytics (AI + Python integration)
+- 🤖 AI Automation (RPA, prompt engineering, AI tools)
+
+---
+
+### 🏎️ Beyond Code
+
+- 🏎️ **Formula 1 enthusiast** – Strategy, data, and speed
+- 🏊 **Swimming** – Discipline and endurance
+- 👨‍👩‍👧 **Family man** – Proud husband and father
+
+---
+
 
 ### :zap: Actividad reciente
 
@@ -20,6 +52,13 @@
 5. 🗣 Commented on [#2](https://github.com/ReZaVal/miCuartoRepo/pull/2#issuecomment-3928773401) in [ReZaVal/miCuartoRepo](https://github.com/ReZaVal/miCuartoRepo)
 <!--END_SECTION:activity-->
 
-## Vías de contacto
+## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renzo-zavala-sandoval-26b9b631/)
+
+💼 Open to collaborations on: **Automation | Data Analysis | AI Solutions | Energy Tech**
+
+---
+
+_"From pipelines to Python – transforming data into decisions"_
+
