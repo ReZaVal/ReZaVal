@@ -45,9 +45,9 @@ Currently building skills in:
 ### :zap: Actividad reciente
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/ReZaVal/miPrimerRepo/pull/5#issuecomment-3929372894) in [ReZaVal/miPrimerRepo](https://github.com/ReZaVal/miPrimerRepo)
-2. 🚀 Published release [V0.1.0](https://github.com/ReZaVal/TercerRepo/releases/tag/V0.1.0) in [ReZaVal/TercerRepo](https://github.com/ReZaVal/TercerRepo)
-3. 🗣 Commented on [#2](https://github.com/ReZaVal/miCuartoRepo/pull/2#issuecomment-3928777617) in [ReZaVal/miCuartoRepo](https://github.com/ReZaVal/miCuartoRepo)
+1. 💪 Opened PR [#5](https://github.com/platzi/claude-code/pull/5) in [platzi/claude-code](https://github.com/platzi/claude-code)
+2. 🎉 Merged PR [#1](https://github.com/ReZaVal/claude-code/pull/1) in [ReZaVal/claude-code](https://github.com/ReZaVal/claude-code)
+3. 💪 Opened PR [#1](https://github.com/ReZaVal/claude-code/pull/1) in [ReZaVal/claude-code](https://github.com/ReZaVal/claude-code)
 4. 🗣 Commented on [#2](https://github.com/ReZaVal/miCuartoRepo/pull/2#issuecomment-3928776110) in [ReZaVal/miCuartoRepo](https://github.com/ReZaVal/miCuartoRepo)
 5. 🗣 Commented on [#2](https://github.com/ReZaVal/miCuartoRepo/pull/2#issuecomment-3928773401) in [ReZaVal/miCuartoRepo](https://github.com/ReZaVal/miCuartoRepo)
 <!--END_SECTION:activity-->
