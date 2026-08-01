@@ -45,8 +45,8 @@ Currently building skills in:
 ### :zap: Actividad reciente
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/platzi/claude-code/pull/5) in [platzi/claude-code](https://github.com/platzi/claude-code)
-2. 🎉 Merged PR [#1](https://github.com/ReZaVal/claude-code/pull/1) in [ReZaVal/claude-code](https://github.com/ReZaVal/claude-code)
+1. 🎉 Merged PR [#1](https://github.com/ReZaVal/ReZaVal/pull/1) in [ReZaVal/ReZaVal](https://github.com/ReZaVal/ReZaVal)
+2. 💪 Opened PR [#1](https://github.com/ReZaVal/ReZaVal/pull/1) in [ReZaVal/ReZaVal](https://github.com/ReZaVal/ReZaVal)
 3. 💪 Opened PR [#1](https://github.com/ReZaVal/claude-code/pull/1) in [ReZaVal/claude-code](https://github.com/ReZaVal/claude-code)
 4. 🗣 Commented on [#2](https://github.com/ReZaVal/miCuartoRepo/pull/2#issuecomment-3928776110) in [ReZaVal/miCuartoRepo](https://github.com/ReZaVal/miCuartoRepo)
 5. 🗣 Commented on [#2](https://github.com/ReZaVal/miCuartoRepo/pull/2#issuecomment-3928773401) in [ReZaVal/miCuartoRepo](https://github.com/ReZaVal/miCuartoRepo)
