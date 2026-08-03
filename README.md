@@ -45,10 +45,10 @@ Currently building skills in:
 ### :zap: Actividad reciente
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ReZaVal/ReZaVal/pull/1) in [ReZaVal/ReZaVal](https://github.com/ReZaVal/ReZaVal)
-2. 💪 Opened PR [#1](https://github.com/ReZaVal/ReZaVal/pull/1) in [ReZaVal/ReZaVal](https://github.com/ReZaVal/ReZaVal)
-3. 💪 Opened PR [#1](https://github.com/ReZaVal/claude-code/pull/1) in [ReZaVal/claude-code](https://github.com/ReZaVal/claude-code)
-4. 🗣 Commented on [#2](https://github.com/ReZaVal/miCuartoRepo/pull/2#issuecomment-3928776110) in [ReZaVal/miCuartoRepo](https://github.com/ReZaVal/miCuartoRepo)
+1. 🎉 Merged PR [#1](https://github.com/ReZaVal/Expenses_Classify/pull/1) in [ReZaVal/Expenses_Classify](https://github.com/ReZaVal/Expenses_Classify)
+2. 💪 Opened PR [#1](https://github.com/ReZaVal/Expenses_Classify/pull/1) in [ReZaVal/Expenses_Classify](https://github.com/ReZaVal/Expenses_Classify)
+3. 🎉 Merged PR [#1](https://github.com/ReZaVal/ReZaVal/pull/1) in [ReZaVal/ReZaVal](https://github.com/ReZaVal/ReZaVal)
+4. 💪 Opened PR [#1](https://github.com/ReZaVal/ReZaVal/pull/1) in [ReZaVal/ReZaVal](https://github.com/ReZaVal/ReZaVal)
 5. 🗣 Commented on [#2](https://github.com/ReZaVal/miCuartoRepo/pull/2#issuecomment-3928773401) in [ReZaVal/miCuartoRepo](https://github.com/ReZaVal/miCuartoRepo)
 <!--END_SECTION:activity-->
 
